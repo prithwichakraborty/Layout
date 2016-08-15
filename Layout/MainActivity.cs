@@ -23,9 +23,7 @@ namespace Layout
             // Get our button from the layout resource,
             // and attach an event to it
             Button button = FindViewById<Button>(Resource.Id.button1);
-            TextView tv = FindViewById<Button>(Resource.Id.textView1);
-
-            button.Click += delegate { tv.Text = "the button is clicked"; };
+   
         }
     }
 }
