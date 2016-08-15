@@ -35,4 +35,4 @@ C:\Projects\Layout\Layout\obj\Debug\android\assets\System.ServiceModel.Internals
 C:\Projects\Layout\Layout\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Projects\Layout\Layout\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Projects\Layout\Layout\obj\Debug\Layout.dll.mdb
-C:\Projects\Layout\Layout\bin\Debug\Layout.dll.mdb
+C:\Projects\Layout\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache

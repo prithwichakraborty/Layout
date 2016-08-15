@@ -1,4 +1,0 @@
-Layout.MainActivity, Layout;md558b65d3b1801d5375b8cc05b81472504.MainActivity
-Layout.MainActivity, Layout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md558b65d3b1801d5375b8cc05b81472504.MainActivity
-Layout.MainActivity;md558b65d3b1801d5375b8cc05b81472504.MainActivity
-layout.MainActivity;md558b65d3b1801d5375b8cc05b81472504.MainActivity
